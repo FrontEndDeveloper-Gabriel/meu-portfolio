@@ -1,7 +1,8 @@
-# PROJETO DE SITE - MEU PORTFÓLIO 👨‍💻🎮
+# PROJETO DE SITE - MEU PORTFÓLIO PESSOAL 👨‍💻🎮
 
 <h3>Introdução</h3> 
-Meu portfólio pessoal :D Seu layout teve como tema o jogo que eu sou muito fã Undertale. <br>
+Meu portfólio pessoal :D <br>
+Seu layout teve como tema o jogo que eu sou muito fã Undertale. <br>
 Espero que gostem! ;)
 
 # <h3>Requisitos: <br>
