@@ -2,7 +2,7 @@
 
 <h3>Introdução</h3> 
 Meu portfólio pessoal :D <br>
-Seu layout teve como tema o jogo que eu sou muito fã Undertale. <br>
+Como sou muito fâ de Undertale e de Deltarune, tive como inspiração utilizar os elementos destes dois games para o desenvolvimento do seu layout. <br>
 Espero que gostem! ;)
 
 # <h3>Requisitos: <br>
