@@ -184,6 +184,17 @@ MEUS LINKS */
   padding: 0 30px;
 }
 
+.meus-links .discord {
+  color: #7289da;
+  font-family: "Determination Mono";
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.meus-links .discord li a {
+  padding: 0 30px;
+}
+
 /*------------------------------------------------------------------------------------------------------------ 
 MEUS PROJETOS */
 
