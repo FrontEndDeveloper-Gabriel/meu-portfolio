@@ -1,24 +1,66 @@
-@media(max-width: 1280px) {
-    .home {
-      flex-direction: column;
-      align-items: center;
-      margin: 50px 0;
-      gap: 30px;
-    }
+@media(max-width: 909px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .cabecalho {
+    padding: 30px;
+  }
+
+  .cabecalho .menu li a {
+    font-size: 29px;
+    padding-bottom: 10px;
+  }
+
+  .sobre-mim .titulo {
+    font-size: 40px;
+  }
+
+  .sobre-mim .subtitulo-1 {
+    font-size: 20px;
+    text-align: center;
+  }
   
-    .home .informacoes {
-      max-width: 100%;
-      text-align: center;
-      align-items: center;
-    }
+  .sobre-mim .informacoes-1 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .sobre-mim .subtitulo-2 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .sobre-mim .informacoes-2 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .sobre-mim .subtitulo-3 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .sobre-mim .informacoes-3 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .meus-links .titulo{
+    font-size: 40px;
+  }
+
+  .meus-links .informacoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
     
-    .projetos .container-projetos {
-      padding: 0 30px;
-    }
-  
-    .cabecalho {
-      padding: 30px;
-    }
+  .meus-projetos .container-projetos {
+    padding: 0 30px;
+  }
   }
   
   @media(max-width: 425px) {
