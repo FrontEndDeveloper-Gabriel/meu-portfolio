@@ -23,27 +23,27 @@
     font-size: 20px;
     text-align: center;
   }
-  
+
   .sobre-mim .informacoes-1 {
     font-size: 20px;
     text-align: center;
   }
-  
+
   .sobre-mim .subtitulo-2 {
     font-size: 20px;
     text-align: center;
   }
-  
+
   .sobre-mim .informacoes-2 {
     font-size: 20px;
     text-align: center;
   }
-  
+
   .sobre-mim .subtitulo-3 {
     font-size: 20px;
     text-align: center;
   }
-  
+
   .sobre-mim .informacoes-3 {
     font-size: 20px;
     text-align: center;
@@ -51,7 +51,7 @@
 
 
 
-  .meus-links .titulo{
+  .meus-links .titulo {
     font-size: 40px;
   }
 
@@ -62,28 +62,28 @@
   }
 
 
-  
+
   .meus-projetos .container-projetos {
     padding: 0 30px;
   }
-  }
-  
+}
 
-  
-  @media(max-width: 425px) {
-    .home .informacoes h1 {
-      font-size: 30px;
-    }
-  
-    .home .informacoes p {
-      font-size: 16px;
-    }
-  
-    .home .container-foto img {
-        max-width: 320px;
-    }
-  
-    .projetos {
-      padding: 30px;
-    }
+
+
+@media(max-width: 425px) {
+  .home .informacoes h1 {
+    font-size: 30px;
   }
+
+  .home .informacoes p {
+    font-size: 16px;
+  }
+
+  .home .container-foto img {
+    max-width: 320px;
+  }
+
+  .projetos {
+    padding: 30px;
+  }
+}
