@@ -9,3 +9,7 @@ Espero que gostem! ;)
 ● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
 ● Link de acesso: <strong>https://frontenddeveloper-gabriel.github.io/meu-portfolio/</strong>
 </h3>
+
+# <h3>Updates: <br>
+● 27/04/2024 - <b>Adicionado responsividade ao site. ✅</b>.
+</h3>
