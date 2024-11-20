@@ -60,9 +60,10 @@ HEADER*/
 }
 
 .cabecalho .menu li a {
-  font-size: 29px;
+  font-size: 30px;
   font-family: "Determination";
   transition: 0.2s;
+  padding-left: 35px;
 }
 
 .cabecalho .menu li a:hover {
